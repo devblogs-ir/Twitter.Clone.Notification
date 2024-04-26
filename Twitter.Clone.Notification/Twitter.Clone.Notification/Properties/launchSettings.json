@@ -13,7 +13,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "Notification",
+      "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5052",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -23,7 +23,7 @@
         "commandName": "Project",
         "dotnetRunMessages": true,
         "launchBrowser": true,
-        "launchUrl": "Notification",
+        "launchUrl": "swagger",
         "applicationUrl": "https://localhost:7137;http://localhost:5052",
         "environmentVariables": {
             "ASPNETCORE_ENVIRONMENT": "Development"
@@ -32,7 +32,7 @@
     "IIS Express": {
         "commandName": "IISExpress",
         "launchBrowser": true,
-        "launchUrl": "Notification",
+        "launchUrl": "swagger",
         "environmentVariables": {
             "ASPNETCORE_ENVIRONMENT": "Development"
         }
